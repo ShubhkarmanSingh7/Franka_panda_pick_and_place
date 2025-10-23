@@ -293,7 +293,7 @@ This project is licensed under the **MIT License**.
 
 ## 🙌 Credits
 
-Maintained by **[Curious-Utkarsh](https://github.com/Curious-Utkarsh)**
+Maintained by **(https://github.com/ShubhkarmanSingh7)**
 Inspired by real-world **pick-and-place robotic** applications.
 
 ---
