@@ -11,7 +11,7 @@ This project allows the Panda robot to detect colored objects (Red, Green, or Bl
 
 ```bash
 cd ~/panda_ws/src
-git clone https://github.com/MechaMind-Labs/Franka_Panda_Color_Sorting_Robot.git
+git clone https://github.com/ShubhkarmanSingh7/Franka_panda_pick_and_place.git
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -293,7 +293,7 @@ This project is licensed under the **MIT License**.
 
 ## 🙌 Credits
 
-Maintained by **[Curious-Utkarsh](https://github.com/Curious-Utkarsh)**
+Maintained by **(https://github.com/ShubhkarmanSingh7)**
 Inspired by real-world **pick-and-place robotic** applications.
 
 ---
